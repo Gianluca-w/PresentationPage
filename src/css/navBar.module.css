@@ -1,0 +1,20 @@
+.navBar{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+
+}
+.navBarWrapper{
+    margin: 0px;
+    padding: 10px 10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    list-style: none;
+}
+.navBarItem{
+    width: 100%;
+    color: red;
+}
